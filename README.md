@@ -1,15 +1,64 @@
-### Hi there 👋 !
+*Last update: January 2022* 
 
-I'm Martin Heywang and I have been on GitHub since January 2020 ! I have been learning programming since end 2018 and I still can't imagine how I could stand more than 1 year without GitHub (and Git too). I'm currently too young, I don't want to share my age (but fortunately I respect the GitHub age limit). By the way, I'm French 🇫🇷 ! 
+# Profile: Martin Heywang
 
-#### I’m currently working on PRODUCTS.
-> See the [repo](https://github.com/MartinHeywang/PRODUCTS). 
+I'm a french 🇫🇷 teenager, **mid-time student 🏫** and **mid-time self-taught developer 💻**. I've been into programming since September 2018. I like to scratch my head, or more precisely **that feeling you get when you achieve something 😀**.
 
-This is my first (quiet big for a single person) project and it shows a lot of practice : When I began, I didn't even hear about [Git](https://git-scm.com/), GitHub, or a build tools like [Maven](https://maven.apache.org/) or [Gradle](https://gradle.org). Even if some commits are a bit messy (Large, big, HUGE commits !!), it shows how I learnt Git and programming in general. I'm not the kind of person that watches a ten thousands of tutorials before getting started my own project. I consider this game  as a mistaken repo : not by the fact it should not be there, but by the fact that experimented developers would fall from their chair seing mistakes I've made. But for the moment it doesn't have any consequences on the real world (I'm not Mark Zuckerberg). And they're fix (obviously if I know that was mistakes, I
+- I use spaces for indentation,
+- I use semicolons everywhere I can (even in javascript),
+- I think HTML and CSS **are** programming languages,
+- ...
 
-#### I’m currently learning the web
-I realized how much the web development is the future of the UI. [Visual Studio Code](https://code.visualstudio.com), [Typora](https://typora.io) are both examples of web app that I use. The web makes almost everything possible : it is cross-platform, it can be responsive (see [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design). And of course, the community is... awesome.
+**Whatever. Let's stop beating around the bush.**
 
-#### How to reach me: 
+## Experience 💻
 
-Mail to : [martin.heywang1@gmail.com](mailto:martin.heywang1@gmail.com) ! (You can use english :uk:, écrire en français :fr:, oder kontaktierien Sie mich auf Deutsch :de:).
+### Languages
+
+#### Languages I master
+
+The ones I got the most experience on.
+
+- `Java` (2y experience, [1 big project](https://github.com/MartinHeywang/products))
+- `TypeScript` (1.5y experience, [1 big project](https://github.com/MartinHeywang/revispace) + [1 medium-sized project](https://github.com/MartinHeywang/origeen))
+
+#### Languages I tried
+
+- `Rust`, felt interesting, but found no use case for it (maybe WebAssembly in the future?),
+- `C++`, probably the hardest one I tried.
+
+### Projects
+
+#### PRODUCTS
+
+- [Repo 🔗](https://github.com/MartinHeywang/products)
+- [Website 🔗](https://martinheywang.github.io/products) 
+
+An factory game where make as much money as possible.
+
+Duration: 07/2019 - 01/2021 / 1.5y
+Technologies: Java, JavaFX, SQLite, ORMLite
+
+#### Origeen
+
+- [Repo 🔗](https://github.com/MartinHeywang/origeen)
+- [npm 🔗](https://npmjs.com/package/origeen)
+
+A command-line tool for managing your projects.
+
+Duration: 03/2021 - 04/2021 / 1m
+Technologies: TypeScript, npm
+
+#### Revispace
+
+- Repo is private
+- [Website 🔗](https://revispace.app)
+
+A web application for revising, as a student.
+
+Duration: 09/2021 - 12/2021 / 4m
+Technologies: TypeScript, React, Firebase.
+
+## Need to reach me?
+
+- 📫 Mail : `martin.heywang1@gmail.com` 
